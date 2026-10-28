@@ -1,0 +1,121 @@
+﻿Product_ID,Product_Name,Category,Subcategory,Unit_Price
+P0001,Smartphone 1,Electronics,Smartphone,14811.97
+P0002,Laptop 2,Electronics,Laptop,17546.31
+P0003,Headphones 3,Electronics,Headphones,59987.22
+P0004,Smartwatch 4,Electronics,Smartwatch,33993.31
+P0005,Tablet 5,Electronics,Tablet,41317.5
+P0006,Smartphone 6,Electronics,Smartphone,31308.47
+P0007,Laptop 7,Electronics,Laptop,30797.25
+P0008,Headphones 8,Electronics,Headphones,21536.02
+P0009,Smartwatch 9,Electronics,Smartwatch,36994
+P0010,Tablet 10,Electronics,Tablet,43063.17
+P0011,Smartphone 11,Electronics,Smartphone,58661.85
+P0012,Laptop 12,Electronics,Laptop,21496.29
+P0013,Headphones 13,Electronics,Headphones,7516.15
+P0014,Smartwatch 14,Electronics,Smartwatch,23840.36
+P0015,Tablet 15,Electronics,Tablet,58645.74
+P0016,Smartphone 16,Electronics,Smartphone,10991.78
+P0017,Laptop 17,Electronics,Laptop,31326.84
+P0018,Headphones 18,Electronics,Headphones,22414.33
+P0019,Smartwatch 19,Electronics,Smartwatch,58771.31
+P0020,Tablet 20,Electronics,Tablet,12812.56
+P0021,Smartphone 21,Electronics,Smartphone,23783.89
+P0022,Laptop 22,Electronics,Laptop,11248.27
+P0023,Headphones 23,Electronics,Headphones,35903.15
+P0024,Smartwatch 24,Electronics,Smartwatch,49081.3
+P0025,Cookware 25,Home & Kitchen,Cookware,5408.35
+P0026,Mixer 26,Home & Kitchen,Mixer,7495.19
+P0027,Vacuum Cleaner 27,Home & Kitchen,Vacuum Cleaner,7224.5
+P0028,Bedsheet 28,Home & Kitchen,Bedsheet,8410.36
+P0029,Storage 29,Home & Kitchen,Storage,8838.72
+P0030,Cookware 30,Home & Kitchen,Cookware,5814.47
+P0031,Mixer 31,Home & Kitchen,Mixer,3112.17
+P0032,Vacuum Cleaner 32,Home & Kitchen,Vacuum Cleaner,8749.63
+P0033,Bedsheet 33,Home & Kitchen,Bedsheet,7311.07
+P0034,Storage 34,Home & Kitchen,Storage,5920.05
+P0035,Cookware 35,Home & Kitchen,Cookware,4963.55
+P0036,Mixer 36,Home & Kitchen,Mixer,721.52
+P0037,Vacuum Cleaner 37,Home & Kitchen,Vacuum Cleaner,11165.63
+P0038,Bedsheet 38,Home & Kitchen,Bedsheet,3003.06
+P0039,Storage 39,Home & Kitchen,Storage,11233.36
+P0040,Cookware 40,Home & Kitchen,Cookware,11140.92
+P0041,Mixer 41,Home & Kitchen,Mixer,1517.3
+P0042,Vacuum Cleaner 42,Home & Kitchen,Vacuum Cleaner,5254.26
+P0043,Bedsheet 43,Home & Kitchen,Bedsheet,3414.99
+P0044,Storage 44,Home & Kitchen,Storage,7035.48
+P0045,Cookware 45,Home & Kitchen,Cookware,7218.64
+P0046,Mixer 46,Home & Kitchen,Mixer,2177.31
+P0047,Vacuum Cleaner 47,Home & Kitchen,Vacuum Cleaner,2205.02
+P0048,Bedsheet 48,Home & Kitchen,Bedsheet,3781.85
+P0049,T-Shirt 49,Fashion,T-Shirt,4298.9
+P0050,Jeans 50,Fashion,Jeans,4974.13
+P0051,Shoes 51,Fashion,Shoes,3811.37
+P0052,Dress 52,Fashion,Dress,6675.01
+P0053,Jacket 53,Fashion,Jacket,4105.52
+P0054,T-Shirt 54,Fashion,T-Shirt,1234.98
+P0055,Jeans 55,Fashion,Jeans,4744.82
+P0056,Shoes 56,Fashion,Shoes,5583.42
+P0057,Dress 57,Fashion,Dress,660.46
+P0058,Jacket 58,Fashion,Jacket,905.67
+P0059,T-Shirt 59,Fashion,T-Shirt,5612.19
+P0060,Jeans 60,Fashion,Jeans,1247.79
+P0061,Shoes 61,Fashion,Shoes,2618.89
+P0062,Dress 62,Fashion,Dress,2953.16
+P0063,Jacket 63,Fashion,Jacket,3385.94
+P0064,T-Shirt 64,Fashion,T-Shirt,4712.68
+P0065,Jeans 65,Fashion,Jeans,1642.72
+P0066,Shoes 66,Fashion,Shoes,1452.86
+P0067,Dress 67,Fashion,Dress,2360.43
+P0068,Jacket 68,Fashion,Jacket,1536.78
+P0069,T-Shirt 69,Fashion,T-Shirt,6047.01
+P0070,Jeans 70,Fashion,Jeans,3224.88
+P0071,Shoes 71,Fashion,Shoes,5151.7
+P0072,Dress 72,Fashion,Dress,1332.72
+P0073,Face Wash 73,Beauty,Face Wash,2843.44
+P0074,Shampoo 74,Beauty,Shampoo,3911.7
+P0075,Skin Care 75,Beauty,Skin Care,173.98
+P0076,Makeup 76,Beauty,Makeup,922.75
+P0077,Perfume 77,Beauty,Perfume,634.58
+P0078,Face Wash 78,Beauty,Face Wash,2816.67
+P0079,Shampoo 79,Beauty,Shampoo,2061.13
+P0080,Skin Care 80,Beauty,Skin Care,1180.59
+P0081,Makeup 81,Beauty,Makeup,2440.68
+P0082,Perfume 82,Beauty,Perfume,1975.01
+P0083,Face Wash 83,Beauty,Face Wash,2397.9
+P0084,Shampoo 84,Beauty,Shampoo,1327.3
+P0085,Skin Care 85,Beauty,Skin Care,4597.21
+P0086,Makeup 86,Beauty,Makeup,2029.73
+P0087,Perfume 87,Beauty,Perfume,1694.03
+P0088,Face Wash 88,Beauty,Face Wash,4686.02
+P0089,Shampoo 89,Beauty,Shampoo,2089.44
+P0090,Skin Care 90,Beauty,Skin Care,1736.49
+P0091,Makeup 91,Beauty,Makeup,1523.49
+P0092,Perfume 92,Beauty,Perfume,3422.54
+P0093,Face Wash 93,Beauty,Face Wash,4382.52
+P0094,Shampoo 94,Beauty,Shampoo,3045.15
+P0095,Skin Care 95,Beauty,Skin Care,2740.46
+P0096,Makeup 96,Beauty,Makeup,1832.31
+P0097,Snacks 97,Grocery,Snacks,1701.1
+P0098,Beverages 98,Grocery,Beverages,2427.95
+P0099,Staples 99,Grocery,Staples,145.09
+P0100,Breakfast 100,Grocery,Breakfast,2223.12
+P0101,Household 101,Grocery,Household,511.15
+P0102,Snacks 102,Grocery,Snacks,649.08
+P0103,Beverages 103,Grocery,Beverages,956.72
+P0104,Staples 104,Grocery,Staples,1293.52
+P0105,Breakfast 105,Grocery,Breakfast,83.85
+P0106,Household 106,Grocery,Household,1529.99
+P0107,Snacks 107,Grocery,Snacks,1043.6
+P0108,Beverages 108,Grocery,Beverages,266.99
+P0109,Staples 109,Grocery,Staples,636.78
+P0110,Breakfast 110,Grocery,Breakfast,1289.88
+P0111,Household 111,Grocery,Household,187.08
+P0112,Snacks 112,Grocery,Snacks,810.69
+P0113,Beverages 113,Grocery,Beverages,304.7
+P0114,Staples 114,Grocery,Staples,1009.44
+P0115,Breakfast 115,Grocery,Breakfast,515.3
+P0116,Household 116,Grocery,Household,444.81
+P0117,Snacks 117,Grocery,Snacks,832.84
+P0118,Beverages 118,Grocery,Beverages,1714.16
+P0119,Staples 119,Grocery,Staples,1243.18
+P0120,Breakfast 120,Grocery,Breakfast,711.67
