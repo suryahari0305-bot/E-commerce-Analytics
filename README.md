@@ -58,6 +58,7 @@ Analyzes overall sales performance through key metrics and trends.
 - Revenue by Customer Segment
 - Revenue by Payment Method
 - City-level Revenue Analysis
+<img width="1920" height="1080" alt="Screenshot 2026-10-28 183213" src="https://github.com/user-attachments/assets/8da5d549-1ee0-4aa1-a61a-cce7366c8530" />
 
 ### 2. Customer Analysis
 
@@ -68,6 +69,8 @@ Explores customer distribution, customer segments, and revenue contribution.
 - Revenue by Customer Segment
 - Customer Revenue Contribution
 - Customer Acquisition and Repeat-Purchase Analysis, where supported by the available data
+
+<img width="1920" height="1080" alt="Screenshot 2026-10-28 183227" src="https://github.com/user-attachments/assets/fda685bc-0e38-4d1e-bff4-10d38dbf6f91" />
 
 ### 3. Product Analysis
 
@@ -83,6 +86,8 @@ Evaluates product and category performance.
 - Units Sold by Category
 - Revenue by Subcategory
 
+<img width="1920" height="1080" alt="Screenshot 2026-10-28 183237" src="https://github.com/user-attachments/assets/843e9467-b705-4561-8c85-1329b0299a33" />
+
 ### 4. Regional Analysis
 
 Examines geographic distribution and regional business performance.
@@ -92,6 +97,8 @@ Examines geographic distribution and regional business performance.
 - Customer Distribution by City
 - Revenue by State, if available in the dataset
 - Customer Segment Contribution Across Cities
+
+<img width="1920" height="1080" alt="Screenshot 2026-10-28 183249" src="https://github.com/user-attachments/assets/e429480b-a177-4064-8367-34c047fc74f6" />
 
 ## 🗃️ Dataset Description
 
